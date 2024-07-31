@@ -1,23 +1,9 @@
 {
     "users": {
         "123": {
-            "Nombre": "kevin",
-            "Apellido": "romero",
-            "Edad": 12
-        },
-        "555": {
-            "Nombre": "lauara",
-            "Apellido": "gonzales",
-            "Edad": 54
-        },
-        "2222": {
-            "Nombre": "aaaaaa",
-            "Apellido": "aaaaaaaaaaaa",
-            "Edad": 22
-        },
-        "22222222222222": {
-            "Nombre": "aaaaaaaaaaaaaa",
-            "Apellido": "aaaaaaaaaaaaaaaa"
+            "Nombre": "Kevin",
+            "Apellido": "Rincon",
+            "Edad": 18
         }
     }
 }
